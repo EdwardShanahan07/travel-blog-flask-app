@@ -1,0 +1,6 @@
+.section-hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(https://images.pexels.com/photos/12858507/pexels-photo-12858507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+      no-repeat center/cover;
+  height: 80vh;
+}
